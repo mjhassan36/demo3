@@ -11,3 +11,11 @@ print("i love problem solving")
 print("i love learning new things")
 print("i love open source")
 print("i love github")
+
+
+
+
+print("i love contributing to open source")
+print("i love collaborating with others")
+print("i love building projects")
+print("i love sharing knowledge")
